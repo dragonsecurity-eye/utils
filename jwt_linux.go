@@ -4,6 +4,8 @@ package utils
 
 import (
 	"fmt"
+
+	"gopkg.in/ini.v1"
 )
 
 func GetJWTKey() (string, error) {

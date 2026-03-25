@@ -3,13 +3,13 @@
 package utils
 
 import (
-  "os"
+	"os"
 )
 
 type OpenUEMLogger struct {
-  LogFile *os.File
+	LogFile *os.File
 }
 
 func (l *OpenUEMLogger) Close() {
-  l.LogFile.Close()
+	l.LogFile.Close()
 }
