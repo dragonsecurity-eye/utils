@@ -1,6 +1,6 @@
 module eye.dragonsecurity.io/utils
 
-go 1.26.3
+go 1.26.4
 
 require (
 	github.com/danieljoos/wincred v1.2.3
