@@ -5,5 +5,5 @@ go 1.26.4
 require (
 	github.com/danieljoos/wincred v1.2.3
 	golang.org/x/sys v0.46.0
-	gopkg.in/ini.v1 v1.67.2
+	gopkg.in/ini.v1 v1.67.3
 )
